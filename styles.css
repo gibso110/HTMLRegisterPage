@@ -16,30 +16,33 @@ h1{
  
   height: 30px;
   width:100px;
-  border-radius: 10%;
+  border-radius: 5%;
   background-color: #1E90FF;
   color:white;
   margin-left: 85%;
   margin-right: 1%;
   margin-top: 20px;
+  border-style: none;
 }
 
 #button-2{
   height: 30px;
   width:100px;
-  border-radius: 10%;
+  border-radius: 5%;
   background-color:#1E90FF;
   color: white;
+  border-style: none;
 }
 
 #sumbit-button{
 height: 30px;
 width: 80%;
-border-radius: 5%;
+border-radius: 3%;
 background-color: #1E90FF;
 color: white;
 margin-left: 30px;
 margin-top: 10%;
+border-style: none;
 
 
 }
